@@ -147,11 +147,13 @@ h3{
     }
     
 
+    
 .box{
     position: relative;
-    width: 220px;
-    height: 300px;
+    width: 100%;
+    height: 100%;
     background-color: #a91212;
+    
 }
 
 .box .imge{
@@ -159,7 +161,8 @@ h3{
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: 300px;
+    
 }
 
 
@@ -176,10 +179,10 @@ h3{
 
 .box .cont{
     position: absolute; 
-    bottom: 10px; 
-    left: 10%;
+    bottom:5px; 
+    left: 5;
     width: 80%;
-    height: 60%;
+    height: 50%;
     transition: 0.5s;
     overflow: hidden;
     padding: 50px;
