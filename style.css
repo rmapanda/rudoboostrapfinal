@@ -7,9 +7,9 @@
 }
 
 
-/* img:hover{
+img:hover{
     opacity: 1.0;
-} */
+}
 .billboard{
     background-image: url(img/zebrabanner-21.png);
     height: 100vh;
