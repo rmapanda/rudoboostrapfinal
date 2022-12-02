@@ -11,7 +11,7 @@ img:hover{
     opacity: 1.0;
 }
 .billboard{
-    background-image: url(img/zebrabanner-21.png);
+    background-image: url(img/zebra.png);
     height: 100vh;
     background-position: center;
     background-size: cover;
